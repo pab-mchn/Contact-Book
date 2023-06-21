@@ -1,0 +1,25 @@
+.agenda-container {
+  margin: 20px;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.input-container input {
+  width: 200px;
+  padding: 5px;
+}
+
+.contact-list {
+  list-style: none;
+}
+
+.contact-list li {
+  margin-bottom: 5px;
+}
+.contact-list button {
+  margin-left: 15px;
+}
